@@ -1,8 +1,8 @@
 {
   "id": "/service-jenkins-mesos-marathon",
   "cmd": null,
-  "cpus": 0.5,
-  "mem": 128,
+  "cpus": 0.1,
+  "mem": 64,
   "disk": 0,
   "instances": 2,
   "acceptedResourceRoles": [
@@ -30,7 +30,7 @@
   },
   "healthChecks": [
     {
-      "gracePeriodSeconds": 15,
+      "gracePeriodSeconds": 15,seini
       "intervalSeconds": 15,
       "timeoutSeconds": 50,
       "maxConsecutiveFailures": 3,
