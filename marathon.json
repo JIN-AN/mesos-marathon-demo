@@ -30,7 +30,7 @@
   },
   "healthChecks": [
     {
-      "gracePeriodSeconds": 15,seini
+      "gracePeriodSeconds": 15,
       "intervalSeconds": 15,
       "timeoutSeconds": 50,
       "maxConsecutiveFailures": 3,
