@@ -30,9 +30,9 @@
   },
   "healthChecks": [
     {
-      "gracePeriodSeconds": 15,
-      "intervalSeconds": 15,
-      "timeoutSeconds": 50,
+      "gracePeriodSeconds": 300,
+      "intervalSeconds": 60,
+      "timeoutSeconds": 20,
       "maxConsecutiveFailures": 3,
       "portIndex": 0,
       "path": "/status",
