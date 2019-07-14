@@ -7,4 +7,4 @@ ADD target/*.jar /app
 # Define environment variable
 #ENV DOCKER_VAR "deneme ali veli"
 
-CMD java -jar ./demo-0.0.1-SNAPSHOT.jar
+CMD java -jar demo-0.0.1-SNAPSHOT.jar
