@@ -1,10 +1,10 @@
 {
   "id": "/service-jenkins-mesos-marathon",
   "cmd": null,
-  "cpus": 0.1,
-  "mem": 64,
+  "cpus": 0.5,
+  "mem": 128,
   "disk": 0,
-  "instances": 1,
+  "instances": 2,
   "acceptedResourceRoles": [
     "*"
   ],
