@@ -39,12 +39,5 @@
       "protocol": "HTTP",
       "ignoreHttp1xx": false
     }
-  ],
-  "portDefinitions": [
-    {
-      "port": 10000,
-      "protocol": "tcp",
-      "labels": {}
-    }
   ]
 }
